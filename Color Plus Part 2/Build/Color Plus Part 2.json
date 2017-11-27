@@ -1,0 +1,11 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "Color Plus Part 2.data.unityweb",
+"asmCodeUrl": "Color Plus Part 2.asm.code.unityweb",
+"asmMemoryUrl": "Color Plus Part 2.asm.memory.unityweb",
+"asmFrameworkUrl": "Color Plus Part 2.asm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
